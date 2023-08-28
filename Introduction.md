@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JhonMarkMalupa
 - 👀 I’m interested in Editing Video
-- 🌱 I’m currently learning Cyber Security Work's
-- 💞️ I’m looking to collaborate on Any Personel
-- 📫 How to reach me Facebook Account Name: Jhon Mark Malupa
+- 🌱 I’m currently a Student 
+- 💞️ I’m looking to a Senior to teach me
+- 📫 How to reach me Via Email: 21-36991@g.batstate-u.edu.ph
 
 <!---
 JhonMarkMalupa/JhonMarkMalupa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
