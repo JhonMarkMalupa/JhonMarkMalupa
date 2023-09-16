@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JhonMarkMalupa
+R- 👋 Hi, I’m @JhonMarkMalupa
 - 👀 I’m interested in Editing Video
 - 🌱 I’m currently a Student 
 - 💞️ I’m looking to a Senior to teach me
