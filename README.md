@@ -2,7 +2,7 @@
 - 👀 I’m interested in Grinding skill<sup>Editing,Designing,LogoDesigning,Drawing,Animation</sup>
 - 🌱 I’m currently learning <i>HTML,CSS,JAVASCRIPT,<sub>NODE.JS,GIT</sub> </i>
 - 💞️ I’m looking to collaborate on <i>Creating Website</i>
-- 📫 How to reach me : Email me: 21-36991
+- 📫 How to reach me : Email me: 21-36991@g.batstate-u.edu.ph
 
 <!---
 MarkRyuo/MarkRyuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
